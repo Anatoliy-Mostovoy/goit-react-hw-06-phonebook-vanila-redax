@@ -1,0 +1,19 @@
+.List {
+  list-style: none;
+  font-size: large;
+  font-weight: 400;
+}
+
+.Button {
+  width: 100px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Button:hover {
+  transform: scale(1.1);
+  border-radius: 10px;
+}

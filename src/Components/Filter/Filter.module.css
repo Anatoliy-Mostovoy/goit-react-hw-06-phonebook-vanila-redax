@@ -1,0 +1,14 @@
+.Label {
+  margin: 0;
+  padding: 0;
+  font-size: large;
+  font-weight: 400;
+}
+.Input {
+  cursor: pointer;
+  padding: 5px;
+  margin: 10px 0 10px 15px;
+  border: 2px solid #eee;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}

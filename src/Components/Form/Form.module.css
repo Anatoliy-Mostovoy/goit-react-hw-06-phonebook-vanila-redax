@@ -1,0 +1,38 @@
+.Container {
+  width: 400px;
+  text-align: center;
+  padding: 20px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  box-shadow: 0 0 15px 4px grey;
+}
+
+.Label {
+  margin: 0;
+  padding: 0;
+}
+
+.Input {
+  width: -webkit-fill-available;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #eee;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}
+.Input:hover {
+  transform: scale(1.1);
+}
+
+.Button {
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Button:hover {
+  transform: scale(1.1);
+  border-radius: 10px;
+}
